@@ -1,0 +1,7 @@
+{
+    "pythonVersion": "3.14",
+    "pythonPath": "c:\\Python314\\python.exe",
+    "typeCheckingMode": "off",
+    "include": ["."],
+    "exclude": ["**/node_modules", "**/__pycache__", "**/.*"]
+}
